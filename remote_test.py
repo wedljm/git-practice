@@ -1,5 +1,6 @@
 def remote_test():
-  pass
+    pass
 
-if __name__ == 'main':
-  remote_test()
+if __name__ == '__main__':
+    remote_test()
+    print("end of program2")
